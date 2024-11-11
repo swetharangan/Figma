@@ -95,10 +95,8 @@ Page - 4 :
 </div>
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/f317c5f1-3dc1-47c5-88bd-6c0defc571f5)
-![image](https://github.com/user-attachments/assets/0e09f1a9-98a5-44d6-b99e-ed0b36cf1ae8)
-![image](https://github.com/user-attachments/assets/fee9eb57-9e97-4d9f-af6c-5c3fb9058e65)
-![image](https://github.com/user-attachments/assets/0f23416a-e3d1-4fac-bb4b-74d82d162b65)
+![image](https://github.com/user-attachments/assets/46b7efc1-ae43-4f0c-b5a9-6152f4c79be2)
+
 
 
 ## RESULT:
